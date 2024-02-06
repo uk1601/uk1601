@@ -11,13 +11,13 @@ I'm a Graduate Student at Northeastern University with a passion for Machine Lea
 - **Libraries / Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy, PyMC, Tensorflow
 - **Tools & Platforms:**
   **- Operating Systems:** Windows, Linux
-  **- Cloud Computing:** AWS
-  **- Containerization & Orchestration:** Kubernetes, Docker
-  **- Infrastructure as Code (IaC):** Ansible, Terraform
-  **- Version Control:** GIT 
+  <br> **- Cloud Computing:** AWS
+  <br> **- Containerization & Orchestration:** Kubernetes, Docker
+  <br> **- Infrastructure as Code (IaC):** Ansible, Terraform
+  <br> **- Version Control:** GIT 
 - **Software Applications:**
   **- Engineering Tools:** AutoCAD, Staad Pro,,Etabs
-  **- Productivity &Design:** Advanced Excel, MS Office, Adobe InDesign.
+  <br> **- Productivity &Design:** Advanced Excel, MS Office, Adobe InDesign.
 
 ## Projects
 **1.** [**Global Renewable Energy Grid Management System** ](https://github.com/uk1601/GREGMS) 
