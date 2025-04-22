@@ -1,4 +1,8 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Uday Kiran Dasari
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+  <h1>Hi there, I'm Uday Kiran Dasari</h1>
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Engineer;Data+Engineer;Multi-Agent+Systems+Architect;RAG+%26+Vector+Database+Specialist" alt="Typing SVG" />
@@ -14,218 +18,315 @@
   <a href="https://github.com/uk1601">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://udaykirandasari.me">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ## 🧠 About Me
 
-I'm an AI & ML Engineer specializing in cutting-edge multi-modal and multi-agent systems, currently pursuing my MS in Information Systems with a Data and ML/AI specialization at Northeastern University (GPA: 3.947/4.0).
+I am a specialized professional in the AI/ML and Data Engineering space, pursuing my MS in Information Systems with a Data and ML/AI specialization at Northeastern University (GPA: 3.95/4.0). My expertise is concentrated in designing and implementing:
 
-My passion lies at the intersection of **data engineering** and **artificial intelligence**, where I've developed expertise in:
-- Building **RAG-based applications** with vector databases for intelligent knowledge retrieval
-- Creating **multi-agent systems** that coordinate specialized AI components for complex tasks
-- Implementing **hybrid neural networks** that combine CNNs, RNNs, and LSTMs for advanced prediction
-- Leveraging **parallel computing** to optimize ML model training on large datasets
-- Developing **NLP solutions** with a special focus on multilingual capabilities
+- **Advanced RAG Systems**: Developed semantic chunking architectures achieving 92% retrieval accuracy with context-aware vector storage optimizations
+- **Multi-Agent Orchestration Frameworks**: Built specialized state-based agent networks using LangGraph for complex task coordination
+- **Efficient ML Model Fine-tuning**: Implemented parameter-efficient techniques (LoRA, adapters) reducing training resources while improving model performance
+- **Hybrid Neural Architectures**: Created combined CNN-RNN-LSTM models for multi-modal data integration with optimized prediction capabilities
+- **Scalable Data Pipelines**: Designed production-grade ETL workflows with Apache Airflow for high-throughput document processing
 
-With a background in both software engineering and cloud infrastructure, I bring a holistic approach to designing and deploying production-ready AI systems.
+My technical approach fuses cloud-native infrastructure with specialized AI components, consistently delivering production-ready systems that combine theoretical understanding with practical implementation expertise.
 
-## 🔬 Current Research Focus
+## 🔥 Key Technical Skills
 
-- 🤖 **Multi-Agent Orchestration**: Building intelligent systems with LangGraph and LangChain that coordinate specialized agents for complex tasks
-- 📑 **Retrieval-Augmented Generation**: Enhancing LLMs with context-aware information retrieval using vector databases and semantic chunking
-- 🧩 **Hybrid Neural Architectures**: Combining CNN, RNN, and Transformer models for multimodal inputs and complex prediction tasks
-- ☁️ **Cloud-Native ML Infrastructure**: Developing scalable ML pipelines with Apache Airflow, Docker, and Kubernetes
-- 🌐 **Multilingual NLP Solutions**: Creating advanced language models that work across multiple languages with a special focus on Telugu-English translation
+### 1. Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-## 🛠️ Tech Stack
+### 2. Natural Language Processing (NLP)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7B42BC?style=flat-square&logo=airtable&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-E6526F?style=flat-square&logo=apache&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white)
 
-<details open>
-<summary><b>AI & Machine Learning</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-3178C6?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-7B42BC?style=flat-square&logo=airtable&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=transformers&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dask-FC6E5C?style=flat-square&logo=dask&logoColor=white" />
-</p>
+### 3. Data Engineering & Big Data
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+### 4. Cloud Computing & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### 5. Deep Learning & Neural Networks
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-3776AB?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![GRU](https://img.shields.io/badge/GRU-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+### 6. Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PIL](https://img.shields.io/badge/PIL-3776AB?style=flat-square&logo=python&logoColor=white)
+![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-A100FF?style=flat-square&logo=buffer&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object_Detection-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### 7. Software Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### 8. Database Management
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+
+### 9. Data Analysis & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 💻 Tools & Technologies
+
+<details>
+  <summary><b>Machine Learning & AI</b></summary>
+  <br>
+  <p>
+    Transfer Learning, Reinforcement Learning, Ensemble Methods, Feature Engineering, PEFT, Weights & Biases, Hyperparameter Optimization, Model Quantization, Federated Learning, AutoML, Model Explainability, Bayesian Optimization, Data Augmentation
+  </p>
 </details>
 
 <details>
-<summary><b>Data Engineering & Databases</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
+  <summary><b>Natural Language Processing</b></summary>
+  <br>
+  <p>
+    RAG Systems, Vector Databases, Prompt Engineering, Multi-Agent Systems, Text Embeddings, Semantic Search, LLMs, NLTK, SpaCy, Named Entity Recognition, Sentiment Analysis, Language Generation, Topic Modeling, Word Embeddings, Tokenization
+  </p>
 </details>
 
 <details>
-<summary><b>Cloud & DevOps</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-</p>
+  <summary><b>Data Engineering & Big Data</b></summary>
+  <br>
+  <p>
+    ETL/ELT Pipelines, Data Warehousing, Data Lakes, Stream Processing, Batch Processing, Data Modeling, Dimensional Modeling, Data Governance, Dask, PySpark, Hadoop, Data Validation
+  </p>
 </details>
 
 <details>
-<summary><b>Programming Languages</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
+  <summary><b>Cloud Computing & MLOps</b></summary>
+  <br>
+  <p>
+    CI/CD, GitHub Actions, MLflow, Model Deployment, Infrastructure as Code, Monitoring, Logging, Serverless, Containerization, Microservices Architecture, Ansible, Jenkins, Cloud Security, Cost Optimization, Hybrid Cloud
+  </p>
 </details>
 
-## 🔥 Featured Projects
+<details>
+  <summary><b>Deep Learning & Neural Networks</b></summary>
+  <br>
+  <p>
+    Attention Mechanisms, Transfer Learning, Autoencoders, Generative Models, Diffusion Models, Neural Architecture Search, GANs, Graph Neural Networks, Variational Autoencoders, Optimizers, Loss Functions, Batch Normalization, Dropout, Activation Functions
+  </p>
+</details>
 
-### 🧠 [LearnLab - Multimodal Learning Platform](https://github.com/uk1601/LearnLab)
+<details>
+  <summary><b>Computer Vision</b></summary>
+  <br>
+  <p>
+    Image Classification, Object Detection, Image Segmentation, Face Recognition, Image Processing, Feature Extraction, OCR, Transfer Learning with Visual Models, Image Generation, Video Analysis, Depth Estimation, Image Enhancement, Style Transfer, Pose Estimation
+  </p>
+</details>
 
-A comprehensive learning platform that transforms PDF content into interactive learning materials using RAG and multi-agent systems.
+<details>
+  <summary><b>Software Development</b></summary>
+  <br>
+  <p>
+    OOP, Design Patterns, API Development, Git, GitHub, CI/CD, Testing, Documentation, Code Review, Shell Scripting, REST API, Microservices, Web Development, Next.js, React, TypeScript
+  </p>
+</details>
 
-- 🔍 **Key Features**: Podcast generation, flashcards, quizzes, blog and tweet generation
-- 🛠️ **Tech Stack**: LangChain, LangGraph, OpenAI, Pinecone, FastAPI, Next.js, AWS/GCP
-- 🏆 **Achievement**: Implemented semantic chunking with OpenAI embeddings for precise information retrieval and designed an automated multi-agent system for content generation
+<details>
+  <summary><b>Database Management</b></summary>
+  <br>
+  <p>
+    SQL, NoSQL, Database Design, Query Optimization, Indexing, Database Migrations, Vector Databases, MySQL, Snowflake, DynamoDB, Time-series Databases, Graph Databases, Stored Procedures
+  </p>
+</details>
 
-<div align="right"><a href="https://github.com/uk1601/LearnLab">[View Project]</a></div>
+<details>
+  <summary><b>Data Analysis & Visualization</b></summary>
+  <br>
+  <p>
+    Exploratory Data Analysis, Statistical Analysis, Data Cleaning, Feature Engineering, Dashboard Creation, Data Storytelling, Power BI, Tableau, Interactive Visualizations, Time Series Analysis, Correlation Analysis, Dimensionality Reduction, Clustering, DBT
+  </p>
+</details>
 
-### 🌦️ [Hybrid CNN-RNN-LSTM for Precipitation Prediction](https://github.com/uk1601/Hybrid_CNN_RNN_LSTM_Model_for_Precipitation_Prediction)
+## 🚀 Featured Projects
 
-An advanced neural network architecture that predicts precipitation by integrating satellite cloud imagery with meteorological data.
+### [LearnLab | Multimodal Learning Platform](https://github.com/uk1601/LearnLab)
 
-- 🔍 **Key Features**: Combined CNN, RNN, and LSTM architectures, multi-day forecasting, class imbalance handling
-- 🛠️ **Tech Stack**: TensorFlow, NumPy, Pandas, Matplotlib
-- 🏆 **Achievement**: Successfully integrated spatial (satellite imagery) and temporal (meteorological data) inputs into a unified model for accurate precipitation forecasting
+Transform static PDFs into dynamic, personalized learning experiences through advanced RAG and multi-agent intelligence
 
-<div align="right"><a href="https://github.com/uk1601/Hybrid_CNN_RNN_LSTM_Model_for_Precipitation_Prediction">[View Project]</a></div>
+**Key Achievements:**
+- Engineered semantic chunking with dynamic thresholding achieving 92% retrieval accuracy
+- Orchestrated five specialized agents generating diverse learning formats (podcasts, flashcards, quizzes)
+- Reduced API costs by 41% through Upstash semantic caching with 97% similarity threshold
 
-### 🌌 [Asteroid Data Classification with Parallel Computing](https://github.com/uk1601/Asteroid_Data_Classification_and_Prediction_Through_Parallel_Computing)
+**Technologies:** LangGraph, OpenAI, Pinecone, FastAPI, Next.js, Airflow, AWS/GCP
 
-A high-performance asteroid classification system using parallel computing techniques to process massive datasets efficiently.
+### [Multi-Modal Research Assistant | Distributed Agent Network](https://github.com/uk1601/Multi_Modal_and_Multi_Agent_Research_Assistant)
 
-- 🔍 **Key Features**: Parallel data processing, multi-model comparison, high-performance computing
-- 🛠️ **Tech Stack**: Dask, PyTorch, multiprocessing, Random Forest, KNN, XGBoost, Neural Networks
-- 🏆 **Achievement**: Reduced data preprocessing and model training times by 8.24x for 958K asteroid records while optimizing multi-CPU and GPU utilization on Northeastern's Discovery supercomputer
+Intelligent research system leveraging specialized agents for document analysis, web search, and academic paper retrieval
 
-<div align="right"><a href="https://github.com/uk1601/Asteroid_Data_Classification_and_Prediction_Through_Parallel_Computing">[View Project]</a></div>
+**Key Achievements:**
+- Reduced research time by 65% while maintaining 95% semantic relevance
+- Engineered document pipeline processing text, tables, and images for 4,500+ vectorized elements
+- Implemented production-grade system with real-time streaming and JWT authentication
 
-### 🎭 [Emotion and Gender Classification with CNN](https://github.com/uk1601/Emotion_Gender_CNN)
+**Technologies:** LangGraph, OpenAI, Pinecone, Airflow, FastAPI, Docker, Streamlit
 
-A dual-task convolutional neural network that simultaneously classifies gender and emotions from facial images.
+### [Text-to-SQL Fine-tuning | Parameter-Efficient LLM Adaptation](https://github.com/uk1601/text-to-sql-finetuning)
 
-- 🔍 **Key Features**: Dual-task learning, class imbalance handling, optimized CNN architecture
-- 🛠️ **Tech Stack**: TensorFlow, Keras, OpenCV, NumPy, Matplotlib
-- 🏆 **Achievement**: Developed techniques to address dataset imbalances while achieving high accuracy in both gender and emotion detection tasks
+Advanced implementation of LoRA fine-tuning to adapt large language models for specialized SQL generation
 
-<div align="right"><a href="https://github.com/uk1601/Emotion_Gender_CNN">[View Project]</a></div>
+**Key Achievements:**
+- Achieved 86% improvement in BLEU score with rank-16 LoRA configuration
+- Optimized Google's Gemma-3-1b-it model for natural language to SQL translation
+- Implemented efficient inference pipeline with comprehensive evaluation metrics
 
-### 🖼️ [Image Captioning with Attention Mechanism](https://github.com/uk1601/Image_Captioning_with_Attention_Mechanism)
+**Technologies:** PEFT, HuggingFace, Google Gemma, PyTorch, Transformers
 
-An image captioning system that generates natural language descriptions of images using attention mechanisms.
+### [Stable Diffusion Fine-tuning | Latent Diffusion Adaptation](https://github.com/uk1601/finetuning_latent_diffusion_model)
 
-- 🔍 **Key Features**: ResNet50-based feature extraction, Bahdanau attention mechanism, GRU sequence generation
-- 🛠️ **Tech Stack**: TensorFlow, COCO dataset, ResNet50, GRU, Attention mechanisms
-- 🏆 **Achievement**: Improved caption quality with attention mechanisms that focus on relevant image regions during text generation
+Targeted adaptation of Stable Diffusion for enhanced photorealism through U-Net component fine-tuning
 
-<div align="right"><a href="https://github.com/uk1601/Image_Captioning_with_Attention_Mechanism">[View Project]</a></div>
+**Key Achievements:**
+- Focused fine-tuning strategy preserving CLIP and VAE while adapting U-Net for style transfer
+- Implemented memory-efficient training techniques for consumer hardware compatibility
+- Developed full-stack application with FastAPI/Streamlit for comparative analysis
 
-### 🤖 [LexiLLM - LLM Expert Assistant](https://github.com/uk1601/LexiLLM)
+**Technologies:** PyTorch, Diffusers, FastAPI, Streamlit, DDPM
 
-A specialized chatbot providing expert guidance on large language model concepts, implementation, and best practices.
+### [LexiLLM | LLM Expert Assistant](https://github.com/uk1601/LexiLLM)
 
-- 🔍 **Key Features**: LLM fundamentals explanation, implementation guidance, model comparisons, streaming responses
-- 🛠️ **Tech Stack**: LangChain, OpenAI API, Streamlit, Pydantic
-- 🏆 **Achievement**: Created a comprehensive educational tool that helps users understand and implement complex LLM concepts
+Educational chatbot providing expert guidance on large language model concepts and implementation
 
-<div align="right"><a href="https://github.com/uk1601/LexiLLM">[View Project]</a></div>
+**Key Achievements:**
+- Created comprehensive knowledge base covering LLM fundamentals, RAG, fine-tuning, and deployment
+- Implemented user profile management for personalized interaction histories
+- Designed responsive UI with real-time streaming responses for enhanced UX
 
-### 📚 [Book Writer Flow with Multi-Agent System](https://github.com/uk1601/book_writer_flow)
+**Technologies:** LangChain, OpenAI API, Streamlit, Pydantic
 
-An automated book writing system using coordinated AI agents to create comprehensive content on specified topics.
+### [Hybrid CNN-RNN-LSTM | Weather Forecasting System](https://github.com/uk1601/Hybrid_CNN_RNN_LSTM_Model_for_Precipitation_Prediction)
 
-- 🔍 **Key Features**: Multi-agent workflow, web scraping integration, autonomous book generation
-- 🛠️ **Tech Stack**: CrewAI, Google's Gemma 3, BrightData, Ollama
-- 🏆 **Achievement**: Developed an end-to-end system that scrapes relevant information and coordinates specialized agents to produce cohesive, well-structured books
+Multi-modal precipitation prediction system integrating satellite imagery with meteorological data
 
-<div align="right"><a href="https://github.com/uk1601/book_writer_flow">[View Project]</a></div>
+**Key Achievements:**
+- Engineered hybrid architecture combining CNN for spatial imagery and RNN-LSTM for temporal data
+- Implemented advanced preprocessing for wind vector creation and cyclic date-time features
+- Addressed class imbalance challenges in precipitation frequency distribution
 
-### 💬 [Telugu Text Generation with RNN-LSTM](https://github.com/uk1601/NLP-Based-Text-Generator-using-RNN-LSTM)
+**Technologies:** TensorFlow, Conv3D, LSTM, Batch Normalization, Dropout
 
-A natural language processing system that generates coherent Telugu text using recurrent neural networks.
+### [Asteroid Classification | Parallel Computing Pipeline](https://github.com/uk1601/Asteroid_Data_Classification_and_Prediction_Through_Parallel_Computing)
 
-- 🔍 **Key Features**: Telugu language support, deterministic and probabilistic text generation, custom tokenization
-- 🛠️ **Tech Stack**: TensorFlow, LSTM, FastText embeddings, Pandas, NumPy
-- 🏆 **Achievement**: Successfully trained an LSTM model to understand and generate grammatically correct Telugu text with appropriate context
+High-performance classification system for 958K asteroid records using distributed computing techniques
 
-<div align="right"><a href="https://github.com/uk1601/NLP-Based-Text-Generator-using-RNN-LSTM">[View Project]</a></div>
+**Key Achievements:**
+- Reduced data preprocessing and model training times by 8.24x through parallel processing
+- Optimized multi-CPU and GPU resource utilization on high-performance computing infrastructure
+- Implemented and compared multiple ML algorithms (Random Forest, KNN, XGBoost, Neural Networks)
+
+**Technologies:** Dask, PyTorch, Multiprocessing, Random Forest, XGBoost, Neural Networks
+
+### [Book Writer Flow | Automated Content Creation](https://github.com/uk1601/book_writer_flow)
+
+Multi-agent system for automated book writing with integrated research and content generation
+
+**Key Achievements:**
+- Orchestrated specialized AI agents for research, writing, and content organization
+- Integrated web scraping capabilities for automated data collection and analysis
+- Implemented end-to-end workflow from topic exploration to final content production
+
+**Technologies:** CrewAI, Google's Gemma 3, BrightData, Ollama
+
+### [English-Telugu Translation | Neural Machine Translation](https://github.com/uk1601/English_to_Telugu_Translation_TransformerArchitecture)
+
+Transformer-based model for low-resource language translation with advanced decoding strategies
+
+**Key Achievements:**
+- Implemented multi-head attention and positional encoding for context-aware translation
+- Compared greedy search vs. beam search decoding strategies for optimal results
+- Designed custom training regime with dynamic learning rate scheduling
+
+**Technologies:** PyTorch, Transformers, Adam optimizer, Beam Search
+
+### [Image Captioning | Vision-Language Model](https://github.com/uk1601/Image_Captioning_with_Attention_Mechanism)
+
+Advanced image description system combining computer vision and natural language generation
+
+**Key Achievements:**
+- Developed attention mechanism focusing on relevant image regions during caption generation
+- Implemented ResNet50-based feature extraction combined with GRU for sequential text generation
+- Created flexible inference pipeline supporting both batch processing and URL-based image captioning
+
+**Technologies:** TensorFlow, ResNet50, GRU, Bahdanau Attention, COCO dataset
 
 ## 🎓 Education
 
-- **Master of Science in Information Systems** (Data and ML/AI Specialization)  
-  Northeastern University, Boston | CGPA: 3.947/4.0 | May 2025 (Expected)
+### Master of Science in Information Systems (Data and ML/AI Specialization)
+Northeastern University, Boston | CGPA: 3.95/4.0 | May 2025
 
-- **Bachelor of Technology in Civil Engineering**  
-  National Institute of Technology, Andhra Pradesh, India | June 2021
+### Bachelor of Technology in Civil Engineering
+National Institute of Technology, Andhra Pradesh, India | June 2021
 
 ## 💼 Professional Experience
 
-### 📊 Graduate Teaching Assistant | Northeastern University
-**Jan 2025 - Present** | Boston, MA
-- Leading practical sessions on RAG modeling, vector database storage, and multi-agent architectures
-- Mentoring students in building scalable ML pipelines using Docker, FastAPI, and cloud infrastructure
-- Guiding implementation of secure authentication and CI/CD pipelines for production deployments
+### Data Engineer( Graduate Teaching and Research Assistant) | Northeastern University
+**August 2024 - Present** | Boston, MA
 
-### ☁️ Software Engineer (Cloud) | Zitisi Solutions LLP
-**Aug 2021 - Jun 2023** | Hyderabad, India
-- Designed and deployed scalable AWS infrastructure leveraging EC2, S3, RDS, and IAM
-- Implemented containerized environments with Docker and Kubernetes for microservice orchestration
-- Automated infrastructure provisioning with Terraform and monitoring with CloudWatch
+- Architect technical labs on end-to-end data engineering with Snowflake/Snowpark Python, DBT transformations, and CI/CD workflows
+- Orchestrate lab sessions on RAG implementations with multi-vector database strategies and multi-agent frameworks
+
+### Cloud Engineer | Zitisi Solutions LLP
+**August 2021 - June 2023** | Hyderabad, India
+
+- Architected secure AWS infrastructure utilizing VPC, EC2 Auto Scaling, and IAM role-based policies
+- Implemented serverless data processing workflows with S3, Lambda, and DynamoDB
+- Established comprehensive monitoring and disaster recovery solutions utilizing CloudWatch dashboards
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=uk1601&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=uk1601&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uk1601&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uk1601&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 📫 Let's Connect!
 
 I'm always excited to collaborate on projects involving AI, machine learning, and data engineering. Whether you have a project idea, question about my work, or just want to connect, feel free to reach out!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/udaykiran16/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:udaykiranchintu16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</div>
+[![LINKEDIN CONNECT](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/udaykiran16/)
+[![EMAIL CONTACT](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:udaykiranchintu16@gmail.com)
+[![PORTFOLIO VISIT](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=safari)](https://udaykirandasari.me)
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=uk1601&color=blue&style=flat-square&label=Profile+Views" />
 </div>
