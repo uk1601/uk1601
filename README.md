@@ -15,9 +15,6 @@
   <a href="mailto:udaykiranchintu16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/uk1601">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://udaykirandasari.me">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Portfolio" />
   </a>
@@ -319,10 +316,17 @@ National Institute of Technology, Andhra Pradesh, India | June 2021
 
 I'm always excited to collaborate on projects involving AI, machine learning, and data engineering. Whether you have a project idea, question about my work, or just want to connect, feel free to reach out!
 
-[![LINKEDIN CONNECT](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/udaykiran16/)
-[![EMAIL CONTACT](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:udaykiranchintu16@gmail.com)
-[![PORTFOLIO VISIT](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=safari)](https://udaykirandasari.me)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/udaykiran16/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:udaykiranchintu16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://udaykirandasari.me">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 ---
 
 <div align="center">
