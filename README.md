@@ -295,15 +295,22 @@ National Institute of Technology, Andhra Pradesh, India | June 2021
 ### Data Engineer( Graduate Teaching and Research Assistant) | Northeastern University
 **August 2024 - Present** | Boston, MA
 
-- Architect technical labs on end-to-end data engineering with Snowflake/Snowpark Python, DBT transformations, and CI/CD workflows
-- Orchestrate lab sessions on RAG implementations with multi-vector database strategies and multi-agent frameworks
+- Architected and automated Snowflake/Snowpark ETL pipelines with DBT transformations and Airflow DAGs, enabling metadata-driven schema evolution and GitHub Actions–backed CI/CD
+- Led RAG framework implementations using Pinecone/ChromaDB and advanced chunking techniques for high-fidelity context retrieval
+- Built multi-agent AI workflows with LangGraph / CrewAI and MCP protocols to orchestrate text, image, and table processing at scale
+- Delivered graduate-level instruction on dimensional modeling, event-driven streaming (Redis), and CI/CD best practices for data engineering
+- Conducted rigorous code reviews of 63 end-to-end student projects with backends, frontends, and container deployments. 
+- Facilitated a 2-day hackathon for 14 teams, mentoring design and delivery of AI-powered research assistant tools under production standards
+
 
 ### Cloud Engineer | Zitisi Solutions LLP
 **August 2021 - June 2023** | Hyderabad, India
 
-- Architected secure AWS infrastructure utilizing VPC, EC2 Auto Scaling, and IAM role-based policies
-- Implemented serverless data processing workflows with S3, Lambda, and DynamoDB
-- Established comprehensive monitoring and disaster recovery solutions utilizing CloudWatch dashboards
+- Architected a cloud-native customer insights platform on AWS using Terraform modules, Kubernetes (EKS), Kinesis Data Streams, and Lambda for real-time data ingestion and processing.
+- Automated infrastructure provisioning and configuration with Terraform and Ansible playbooks to enforce consistency across development, staging, and production.
+- Built end-to-end CI/CD pipelines in Jenkins to orchestrate Terraform deploys, Docker image builds, and Helm releases, enabling zero-downtime blue-green deployments.
+- Containerized ETL and machine-learning inference services with Docker, published to ECR, and deployed via Helm charts with HPA.
+- Implemented a Prometheus-Grafana observability stack and Alert Manager rules to monitor system health and proactively notify of anomalies.
 
 ## 📈 GitHub Stats
 
